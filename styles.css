@@ -1,5 +1,5 @@
 body {
-  background-color: #CCC;
+  background-color: white;
 }
 
 .selections {
@@ -12,7 +12,7 @@ body {
   border: none;
   outline: none;
   cursor: pointer;
-  font-size: 2rem;
+  font-size: 5rem;
   transition: 100ms;
 }
 
@@ -31,7 +31,7 @@ body {
 
 .result-score {
   margin-left: .1rem;
-  font-size: .5rem;
+  font-size: .9rem;
   color: #333;
 }
 
